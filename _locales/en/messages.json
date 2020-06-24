@@ -1,0 +1,9 @@
+{"extName": {
+   "message": "Download Button",
+   "description": "Extension name"},
+ "extDesc": {
+   "message": "Download Context Menu Button",
+   "description": "Extension description"},
+ "openContextMenuTitle": {
+   "message": "Download",
+   "description": "context menu button text"}}
